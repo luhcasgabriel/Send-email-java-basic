@@ -6,6 +6,7 @@
 O projeto uliza o maven, é necessário executar o build inicial para baixar a lib javaMail version 1.5.5
 
 1 - Abra a classe App e configure suas credênciais - email e senha
+
 2 - Verifique se sua conta está habilitado para terceiros executarem o envio de email.
 
 vá em https://myaccount.google.com/ -> segurança -> Acesso a app menos seguro , ative está função.
